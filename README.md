@@ -12,6 +12,11 @@ This is a dynamic Object-Oriented program that I have created to solidify my kno
 -Google
 -UML
 
+## Topics Used
+Object Oriented Programming methods: Abstraction and Inheritance.
+File I/O
+Catch and try exception methods.
+
 
 ## Lessons Learned
 -I learned that with multiple classes it is very useful to use comments so it is easy to come back and fix code.
